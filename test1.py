@@ -26,3 +26,8 @@ if n4 == 1:
     jogos=random.randint(0,6)
 
     print(nomes_jogos[jogos])
+
+elif n4 ==2:
+    animais = random.randint(0, 2)
+
+    print(nomes_animais[animais])
